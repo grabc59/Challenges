@@ -1,3 +1,5 @@
+//Created by Christopher Grabski - August 2016
+
 var findHighSum = function (cardNumList) {
 	var highCardSum = 0;
 	var highCardNum = "";
